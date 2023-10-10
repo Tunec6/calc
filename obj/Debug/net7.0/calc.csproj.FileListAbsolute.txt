@@ -1,0 +1,14 @@
+D:\Демка\prog\calc\bin\Debug\net7.0\calc.exe
+D:\Демка\prog\calc\bin\Debug\net7.0\calc.deps.json
+D:\Демка\prog\calc\bin\Debug\net7.0\calc.runtimeconfig.json
+D:\Демка\prog\calc\bin\Debug\net7.0\calc.dll
+D:\Демка\prog\calc\bin\Debug\net7.0\calc.pdb
+D:\Демка\prog\calc\obj\Debug\net7.0\calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Демка\prog\calc\obj\Debug\net7.0\calc.AssemblyInfoInputs.cache
+D:\Демка\prog\calc\obj\Debug\net7.0\calc.AssemblyInfo.cs
+D:\Демка\prog\calc\obj\Debug\net7.0\calc.csproj.CoreCompileInputs.cache
+D:\Демка\prog\calc\obj\Debug\net7.0\calc.dll
+D:\Демка\prog\calc\obj\Debug\net7.0\refint\calc.dll
+D:\Демка\prog\calc\obj\Debug\net7.0\calc.pdb
+D:\Демка\prog\calc\obj\Debug\net7.0\calc.genruntimeconfig.cache
+D:\Демка\prog\calc\obj\Debug\net7.0\ref\calc.dll
