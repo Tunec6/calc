@@ -1,6 +1,27 @@
-﻿public class Calculator
+﻿
+public class Calc{
+        public double Sum(double firstValue, double secondValue){
+        return firstValue + secondValue;
+    }
+            public double Minus(double firstValue, double secondValue){
+        return firstValue - secondValue;
+    }
+            public double Multpily(double firstValue, double secondValue){
+        return firstValue * secondValue;
+    }
+            public double Devid(double firstValue, double secondValue){
+        return firstValue / secondValue;
+    }
+}
+
+public class Request
 {
-    static void Main(string[] args)
+    Calc calc;
+
+    public Request(Calc calc){
+        this.calc = calc;
+    }
+    public void Req()
     {
 
         while (true)
@@ -60,6 +81,14 @@
             Console.ReadLine(); 
         }
 
+    }
+}
+
+class Prog{
+    static void Main(string[] args){
+        Calc calc = new Calc();
+        Request req = new Request(calc);
+        req.Req();
     }
 }
 
