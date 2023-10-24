@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7kVW96o8zfVBb8A0CTx/CykeDIp9OW0wq/iPj+T3fsM8WvYRxOjwCw8Gzo3Jvmt5GR+S/N20QF8SuRz0DxOUOw==",
+  "dgSpecHash": "FzydJfgmnwfOaMb5pf9r36IxRU0Tl1Uq+03h1Ixn0dQ8vVa0tYElt5wP7Cu+8xs5O1D25704SKScYWot0Y46UQ==",
   "success": true,
-  "projectFilePath": "D:\\Демка\\prog\\calc\\calc.csproj",
+  "projectFilePath": "/home/user/Загрузки/garden/calc/calc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

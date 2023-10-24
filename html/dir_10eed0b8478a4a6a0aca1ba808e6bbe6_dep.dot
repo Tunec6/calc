@@ -1,0 +1,11 @@
+digraph "/home/user/Загрузки/garden/calc"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_05413df3ea85092c2290d18abb68e316 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", style="filled,dashed,", label="garden", fontname="Helvetica", fontsize="10", URL="dir_05413df3ea85092c2290d18abb68e316.html"]
+  dir_10eed0b8478a4a6a0aca1ba808e6bbe6 [shape=box, label="calc", style="filled,bold,", fillcolor="#edf0f7", color="grey25", URL="dir_10eed0b8478a4a6a0aca1ba808e6bbe6.html"];
+  }
+}
